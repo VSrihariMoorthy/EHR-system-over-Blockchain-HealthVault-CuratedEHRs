@@ -29,7 +29,7 @@ The growing digitization of medical information has raised the possibility of me
 
 ---
 
-## EHR-system-over-Blockchain-HealthVault-CuratedEHRs
+## About this repo
 
 BTech Final Year Project - CCE2020
 
