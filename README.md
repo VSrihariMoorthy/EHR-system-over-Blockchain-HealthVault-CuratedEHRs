@@ -1,5 +1,7 @@
 # Verified Access to EHR over Blockchain and IPFS with Lit Protocol Encryption
 
+This repository contains the curated EHR dataset used to test and validate the system described in our paper published at the **2024 IEEE International Conference on Blockchain and Distributed Systems Security (ICBDS)**.
+
 **IEEE Xplore:** https://ieeexplore.ieee.org/document/10837546
 
 ## Abstract
@@ -29,10 +31,10 @@ The growing digitization of medical information has raised the possibility of me
 
 ---
 
-## About this repo
+## More about this repo
 
 BTech Final Year Project - CCE2020
 
-This repository contains curated Electronic Health Records (EHRs) used to test and validate the system proposed in the paper above. Records were curated using data sourced from MIMIC-III and populated to reflect the range of medical data types the system is designed to handle.
+Records were curated using data sourced from MIMIC-III and populated to reflect the range of medical data types the system is designed to handle.
 
 Main implementation repository, which carries the **same citation requirement**: https://github.com/VSrihariMoorthy/EHR-system-over-Blockchain-HealthVault
